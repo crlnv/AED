@@ -1,5 +1,5 @@
 # AED
-Frequência de Altura dos personagens de sexo.
+# Frequência de Altura dos personagens de star wars segundo sexo.
 
 
 install.packages("ggplot2")
